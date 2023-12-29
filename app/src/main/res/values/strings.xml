@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+</resources>
